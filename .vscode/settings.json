@@ -1,0 +1,10 @@
+{
+    "omnisharp.autoStart": true,
+    "omnisharp.analyzeOpenDocumentsOnly": false,
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#6A9955"
+    }
+}

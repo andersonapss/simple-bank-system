@@ -1,0 +1,5 @@
+C:\Users\Anderson\Desktop\CursoCSharp\bin\Release\net10.0\publish\CursoCSharp.exe
+C:\Users\Anderson\Desktop\CursoCSharp\bin\Release\net10.0\publish\CursoCSharp.dll
+C:\Users\Anderson\Desktop\CursoCSharp\bin\Release\net10.0\publish\CursoCSharp.deps.json
+C:\Users\Anderson\Desktop\CursoCSharp\bin\Release\net10.0\publish\CursoCSharp.runtimeconfig.json
+C:\Users\Anderson\Desktop\CursoCSharp\bin\Release\net10.0\publish\CursoCSharp.pdb
